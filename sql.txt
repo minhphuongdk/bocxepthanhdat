@@ -1,0 +1,1 @@
+mysql -u be7e167872cbe4 -h eu-cdbr-west-02.cleardb.net -p heroku_7a6d5c3867997ff  < dichvubocxep.sql
